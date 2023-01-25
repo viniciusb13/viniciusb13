@@ -1,4 +1,4 @@
-### Bem vindo ao meu GitHub! Eu sou o Vinicius Besen 👋
+### Bem vindo ao meu GitHub! Meu nome é Vinicius Besen 👋
 
 - 🔭 Procurando oportunidades na área de Desenvolvimento Front-End
 <!-- 🌱 Estudando Typescript, NodeJS -->
