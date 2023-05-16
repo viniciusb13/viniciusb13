@@ -4,13 +4,14 @@
 <!-- 🌱 Estudando Typescript, NodeJS -->
 <!--  <img height="170em" src="https://github-readme-stats.vercel.app//api/top-langs/?username=viniciusb13&layout=compact&langs_count=16&theme=dracula" /> -->
 <!--   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciusb13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
-
+	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 <div>
     <a href="https://github.com/viniciusb13" target="_blank">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusb13&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-   
+[![Anurag's GitHub stats][(https://github-readme-stats.vercel.app/api/top-langs/?username={viniciusb13}&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
