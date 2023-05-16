@@ -2,9 +2,6 @@
 
 - 🔭 Procurando oportunidades na área de Desenvolvimento Front-End
 <!-- 🌱 Estudando Typescript, NodeJS -->
-<!--  <img height="170em" src="https://github-readme-stats.vercel.app//api/top-langs/?username=viniciusb13&layout=compact&langs_count=16&theme=dracula" /> -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
-	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 <div>
     <a href="https://github.com/viniciusb13" target="_blank">
 
