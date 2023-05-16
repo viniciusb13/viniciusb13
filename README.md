@@ -5,8 +5,8 @@
 <div>
     <a href="https://github.com/viniciusb13" target="_blank">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusb13&layout=compact&langs_count=16&theme=dracula&height=250)](https://github.com/anuraghazra/github-readme-stats)	    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusb13&layout=compact&langs_count=16&theme=dracula&height=250)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusb13&layout=compact&langs_count=16&theme=dracula&height=450)](https://github.com/anuraghazra/github-readme-stats)	    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusb13&layout=compact&langs_count=16&theme=dracula&height=450)](https://github.com/anuraghazra/github-readme-stats)
 	    
 </div>
     
