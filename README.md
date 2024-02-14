@@ -18,7 +18,8 @@
   <img title="CSS" align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="NPM" align="center" alt="NPM" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img title="Git" align="center" alt="Git" height="60" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="Tailwind" align="center" alt="Tailwind" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img title="Tailwind" align="center" alt="Tailwind" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+	
   <!-- <img align="center" alt="NextJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> -->
        
 
