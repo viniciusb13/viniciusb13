@@ -1,7 +1,7 @@
 ### Bem vindo ao meu GitHub! Meu nome é Vinicius Besen 👋
 
 <!-- - Procurando oportunidades na área de Desenvolvimento Front-End -->
-- Estudando Typescript, NextJs
+Desenvolvedor Web Front-End
 <div>
     <a href="https://github.com/viniciusb13" target="_blank">
 
